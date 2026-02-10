@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Gourav Negi
 
-<!--
-**gouravnegi867/gouravnegi867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student  
+📊 Aspiring Data Analyst  
+🐍 Learning Python for Data Analysis  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I am transitioning from a programming background to **Data Analytics**.  
+Currently learning how to clean, analyze, and visualize data using **Python, SQL, and Excel**.
+
+I enjoy working with data, finding insights, and building real-world projects step by step.
+
+---
+
+## 🛠️ Skills
+- Python (Beginner)
+- SQL (Basics)
+- Excel
+- Data Cleaning
+- Git & GitHub
+
+---
+
+## 📂 Projects
+
+### 📊 Data Analysis Projects (Learning Phase)
+- Python basics & practice notebooks
+- CSV data cleaning and analysis
+- Simple data insights using Pandas *(in progress)*
+
+---
+
+### 💻 Previous Project
+#### 🏦 Bank Management System (Java)
+- Java Swing based ATM / Bank application  
+- Helped me understand logic, databases, and problem-solving  
+🔗 https://github.com/gouravnegi867/Bank-Management-System
+
+---
+
+## 🌱 Currently Learning
+- Python (Pandas, NumPy)
+- SQL for Data Analysis
+- Excel for reporting
+- Data visualization fundamentals
+
+---
+
+## 📫 Connect With Me
+📧 Email: gouravnegi867@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/gourav-negi/  
+🌐 GitHub: https://github.com/gouravnegi867  
+
+---
+
+⭐ I believe in **learning by doing** and improving every day.
