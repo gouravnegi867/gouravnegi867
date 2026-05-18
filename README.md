@@ -25,14 +25,13 @@ I enjoy working with data, finding insights, and building real-world projects st
 
 ## 📂 Projects
 
-### 📊 Data Analysis Projects (Learning Phase)
-- Python basics & practice notebooks
-- CSV data cleaning and analysis
-- Simple data insights using Pandas *(in progress)*
+#### Diwali Sales Analysis using Python
+- Performed data cleaning and exploratory data analysis using Pandas, Matplotlib, and Seaborn
+- Identified customer purchasing behavior and sales trends
+🔗 https://github.com/gouravnegi867/Diwali-Sales-Analysis
 
 ---
 
-### 💻 Previous Project
 #### 🏦 Bank Management System (Java)
 - Java Swing based ATM / Bank application  
 - Helped me understand logic, databases, and problem-solving  
